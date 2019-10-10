@@ -4,6 +4,7 @@
 #### Scavenger Hunt
 #### Git Hub Review
 #### Project Discussion
+#### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
 
 ## October 15th
