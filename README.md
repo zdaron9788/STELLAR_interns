@@ -6,7 +6,7 @@
   <h3>Spectres</h3>
 
   <div><div align="center" width=80px>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/NGC265.jpg/600px-NGC265.jpg" width="50">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/NGC265.jpg/600px-NGC265.jpg" width="350">
       <p width="auto">NGC 265</p>
     </div></div>
 </div>
