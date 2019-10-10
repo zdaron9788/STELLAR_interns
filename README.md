@@ -1,4 +1,20 @@
 # STELLAR_interns
+
+<hr>
+<br />
+<div align="center">
+  <h3>Spectres</h3>
+
+  <div><div align="center" width=80px>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/NGC265.jpg/600px-NGC265.jpg" width="50">
+      <p width="auto">NGC 265</p>
+    </div></div>
+</div>
+
+<br />
+
+<hr>
+
 materials for Brown Scholar Interns
 ## To get this repo: 
 #### Open a Terminal Window, use the 'cd' command to navigate to where you will create a folder for our project work.
