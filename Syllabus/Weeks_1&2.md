@@ -1,9 +1,10 @@
 # Syllabus for Weeks 1 & 2 (October 10, 15, 17)
 
 ## October 10th
-#### Scavenger Hunt
+#### Introductions & Project Discussion Scavenger Hunt
 #### Git Hub Review
-#### Project Discussion
+#### Scavenger Hunt & Presentations
+#### About me coding exercise
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
 
