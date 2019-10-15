@@ -30,6 +30,6 @@ the initial light curve before processing.
 
 1. Every Tuesday a pull must be made to download that week's syllabus
 2. One person speaks at a time, everyone's voice is valuable
-2. Please no cell phones unless its an emergency
-3. Put a post it on the top of your computer screen if you get stuck
-4. An exit survey is required at the end of every session
+3. Please no cell phones unless its an emergency
+4. Put a post it on the top of your computer screen if you get stuck
+5. An exit survey is required at the end of every session
