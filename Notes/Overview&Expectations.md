@@ -3,8 +3,8 @@
 We will use data from stars in the Southern Continuous Viewing Zone of the
 TESS space telescope to try to measure the rotation periods of those stars.
 Our dataset will come in the form of light curves, which is measurements of
-the brightness of a star at consistant intervals over a long time period 
-- in our case, 351 days. We will need to remove noise from our data signals 
+the brightness of a star at consistant intervals over a long time period, 
+in our case, 351 days. We will need to remove noise from our data signals 
 due to the spacecraft's motion, how the instrument operates, and other stellar 
 signals. We will need to build a custom moving median function to help us clean 
 the data. We will need to stitch together our time series observations for each 
