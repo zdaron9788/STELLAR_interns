@@ -5,6 +5,7 @@
 ##### What is Data Exploration? How do we do it?
 ##### Bunch of objects activity 
 ##### McQuillian M-dwarf coding example
+##### Decide next cheers & challenges representative
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
 
