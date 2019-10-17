@@ -29,7 +29,7 @@
 - `ls` - lists everything in the current directory
 - `ls -a` - lists everything (plus hidden files) in the current directory
 - `cd` - navigate through directories
-- `cd ..` OR 'cd ~' - shorthand for parent directory
+- `cd ..` OR `cd ~` - shorthand for parent directory
 - `cd ../` - goes back one directory
 - `mkdir` - make a new directory (folder), followed by folder name
 - `rmdir` - remove a directory (folder), followed by folder name
