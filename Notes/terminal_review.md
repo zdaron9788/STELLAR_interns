@@ -29,12 +29,18 @@
 - `ls` - lists everything in the current directory
 - `ls -a` - lists everything (plus hidden files) in the current directory
 - `cd` - navigate through directories
-- `cd ..` OR `cd ~` - shorthand for parent directory
-- `cd ../` - goes back one directory
+- `cd ..` - shorthand for parent directory (goes back one directory)
+- `cd ~`  - goes to home directory
 - `mkdir` - make a new directory (folder), followed by folder name
-- `rmdir` - remove a directory (folder), followed by folder name
+- `touch` - easy way to create an empty file, followed by file name
+- `jupyter notebook` - opens up jupyter notebook
+
+
+
+### Commands in Terminal to used with _caution__ (when used items are gone forever! they will not go to the Trash first)
+- `rmdir` - remove an empty directory (folder), followed by folder name
+- `rmdir -r` - remove a directory (folder) AND delete all its contents (including subfolders & files), followed by folder name
 - `touch` - easy way to create an empty file, followed by file name
 - `rm` - remove a file, followed by file name
-- `jupyter notebook` - opens up jupyter notebook
 
 Use TAB to complete file names and up/down arrows to reuse recent commands.
