@@ -37,7 +37,7 @@
 
 
 
-### Commands in Terminal to used with _caution__ (when used items are gone forever! they will not go to the Trash first)
+### Commands in Terminal to used with _caution_ (when used items are gone forever! they will not go to the Trash first)
 - `rmdir` - remove an empty directory (folder), followed by folder name
 - `rmdir -r` - remove a directory (folder) AND delete all its contents (including subfolders & files), followed by folder name
 - `touch` - easy way to create an empty file, followed by file name
