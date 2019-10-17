@@ -12,5 +12,5 @@
 ##### Learning our tools
 ##### Install [lightkurve package](https://docs.lightkurve.org/quickstart.html) 
 ##### Begin working through [first tutorial](https://docs.lightkurve.org/tutorials/01-what-are-lightcurves.html)
-##### Prep for visit by Dr. Ruth Angus 
+##### Prep for visit by [Dr. Ruth Angus](https://ruthangus.github.io/index.html) 
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
