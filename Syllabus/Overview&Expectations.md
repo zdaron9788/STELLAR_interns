@@ -28,8 +28,12 @@ the initial light curve before processing.
 # Internship Expectations
 
 
-1. Every Tuesday a pull must be made to download that week's syllabus
-2. One person speaks at a time, everyone's voice is valuable
-3. Please no cell phones unless its an emergency
-4. Put a post it on the top of your computer screen if you get stuck
-5. An exit survey is required at the end of every session
+1. Be present and active from 4:30pm-6:30pm on Tuesdays/Thursdays
+2. Every Tuesday a pull must be made to download that week's syllabus
+3. One person speaks at a time, everyone's voice is valuable
+4. Ask for help!
+5. Please no cell phones unless its an emergency
+6. Clean up after yourself
+7. Take a bathroom break whenever you need one (just let us know you're stepping out)
+8. Put a post it on the top of your computer screen if you get stuck
+9. An exit survey is required at the end of every session
