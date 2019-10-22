@@ -20,8 +20,8 @@
 #### ~~How STARS work~~ (moved to week 3)
 ##### ~~[movie](https://www.youtube.com/watch?v=GoW8Tf7hTGA)~~ (moved to week 3)
 ##### ~~[slides](https://docs.google.com/presentation/d/1dpfgXGEOcCEc6LUgN1gKsb9JnDk4iQnxQQxL-_5LELk/edit?usp=sharing)~~ (moved to week 3)
-##### Overview of Project 
+#### Overview of Project 
 ##### Introduction to weekly Syllabus in Syllabus folder
 ##### GitHubReview/TerminalReview/Overview&Expectations in Notes folder
-#### Introduction to Time Series with Sunspot coding activity (rescheduled from last class)
+##### Introduction to Time Series with Sunspot coding activity (rescheduled from last class)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)

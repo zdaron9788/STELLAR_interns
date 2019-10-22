@@ -11,7 +11,7 @@
 
 
 ## October 24th
-##### What is Data Exploration? How do we do it?
+#### What is Data Exploration? How do we do it?
 ##### Bunch of objects activity 
 ##### McQuillian M-dwarf coding example
 ##### Prep for visit by [Dr. Ruth Angus](https://ruthangus.github.io/index.html) 
