@@ -16,6 +16,3 @@
 ##### McQuillian M-dwarf coding example
 ##### Prep for visit by [Dr. Ruth Angus](https://ruthangus.github.io/index.html) 
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
-
-
-
