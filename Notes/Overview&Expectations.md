@@ -27,6 +27,7 @@ the initial light curve before processing.
 
 # Internship Expectations
 
+Please cc drowland@amnh.org for all anticipated absences/lateness.
 
 1. Be present and active from 4:30pm-6:30pm on Tuesdays/Thursdays
 2. Every Tuesday a pull must be made to download that week's syllabus
