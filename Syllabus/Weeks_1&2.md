@@ -3,7 +3,7 @@
 ## October 10th
 #### Introductions & Project Discussion
 #### Git Hub Review
-#### Scavenger Hunt & Presentations (cancelled)
+#### ~~Scavenger Hunt & Presentations~~ (cancelled)
 #### Cheers & challenges representative coding exercise (Tigist won!)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
