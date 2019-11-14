@@ -35,7 +35,7 @@
 3. Science examples
 	3.1. Exoplanet examples
 		- How to recover a known planet in Kepler data?
-		- How to recover the first TESS planet candidate with __Lightkurve__?
+		- How to recover the first TESS planet candidate with _Lightkurve_?
 
 ##### Data Cleaning [Slides](https://docs.google.com/presentation/d/1noMMLXNZiuF6gfXsVXGdsyo9gKCf0YazJQKmTwxvxH8/edit?usp=sharing) (moved to next Tuesday) 
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
