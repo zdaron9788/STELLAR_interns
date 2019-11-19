@@ -10,7 +10,7 @@
 4. Plot each light curve per sector
 5. Make sure you can track which light curve belongs to which target
 6. Can you also make the loop print the target id or sector the data comes from?
-
+7. Be prepared to present how you did this in code!
 
 
 	
