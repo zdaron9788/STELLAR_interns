@@ -12,7 +12,7 @@
 #### Thanksgiving - No sessions
 
 <div><div align="center" width=80px>
-    <img src="https://boyslifeorg.files.wordpress.com/2016/10/thankscomic-2.jpg" width="50"">
+    <img src="https://boyslifeorg.files.wordpress.com/2016/10/thankscomic-2.jpg" width="350"">
 </div></div>
 
 
