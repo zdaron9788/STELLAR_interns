@@ -2,14 +2,15 @@
 
 
 ## November 26th
-#### Optimizing our code, For Loop to Function [Slides](https://docs.google.com/presentation/d/1w8uOPCtvYdJIDKCZdKHIT9mwvPxGT_k3YNPp6gVOLNc/edit?usp=sharing)
+#### Optimizing our code
+##### For Loop to Function [Slides](https://docs.google.com/presentation/d/1w8uOPCtvYdJIDKCZdKHIT9mwvPxGT_k3YNPp6gVOLNc/edit?usp=sharing)
 ##### Make for loop activity a function
 ##### Decide next cheers & challenges representative (Stephanie by default)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
 
 ## November 28th
-#### Thanksgiving - No sessions
+#### Thanksgiving - No session
 
 <div><div align="left" width=80px>
     <img src="https://boyslifeorg.files.wordpress.com/2016/10/thankscomic-2.jpg" width="350"">
