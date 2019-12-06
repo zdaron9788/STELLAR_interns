@@ -27,5 +27,5 @@
 ##### Turn our "for loop" function into an importable package
 ##### Running python in the terminal
 ##### ~~masking [exercises](http://danielandreasen.github.io/:about/2015/01/19/masks-in-python/)~~ (moved to next week)
-##### ~~Decide regions to mask (moved to next week)~~
+##### ~~Decide regions to mask~~ (moved to next week)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
