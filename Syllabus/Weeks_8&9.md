@@ -6,7 +6,7 @@
 ##### For Loop to Function [Slides](https://docs.google.com/presentation/d/1w8uOPCtvYdJIDKCZdKHIT9mwvPxGT_k3YNPp6gVOLNc/edit?usp=sharing)
 ##### Make for loop activity a function
 ##### Text Editor [Download](http://www.barebones.com/products/bbedit/download.html) 
-##### Decide next cheers & challenges representative (Stephanie by default)
+##### Decide next cheers & challenges representative (Rie filled in)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
 
@@ -23,9 +23,9 @@
 
 
 ## December 5th
-#### Masking Arrays
+#### Moving beyond jupyter notebooks
 ##### Turn our "for loop" function into an importable package
 ##### Running python in the terminal
-##### masking [exercises](http://danielandreasen.github.io/:about/2015/01/19/masks-in-python/)
-##### Decide regions to mask
+##### ~~masking [exercises](http://danielandreasen.github.io/:about/2015/01/19/masks-in-python/)~~ (moved to next week)
+##### ~~Decide regions to mask (moved to next week)~~
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
