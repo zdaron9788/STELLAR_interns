@@ -6,7 +6,7 @@
 ## Code Directions:
 1. Use `numpy.random.random_sample` to generate a random 2D data array in the shape of 
 	20 rows and 2 columns
-	- [API] might be helpful(https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.random_sample.html)
+	- For help try to read the [API](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.random_sample.html)
 2.  Use `numpy.arange(0,10,.5)` to create a time array variable
 3.  Insert the time array into the random 2D data array using `numpy.insert`
 	- hint start insert at `0` using `axis=1` in the arguments
