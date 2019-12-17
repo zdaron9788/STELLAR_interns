@@ -1,7 +1,7 @@
 # Syllabus for Week 10 (December 10, 12)
 
 
-## November 26th
+## December 10th
 #### Masking Arrays
 ##### masking [exercises](http://danielandreasen.github.io/:about/2015/01/19/masks-in-python/)
 ##### Decide regions to mask
@@ -10,7 +10,7 @@
 
 
 
-## December 5th
+## December 12th
 #### Clean *your* stars
 ##### Decide approach for organizing cleaned data
 ##### Start cleaning!
