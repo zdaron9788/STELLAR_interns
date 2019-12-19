@@ -10,6 +10,7 @@
 
 
 ## December 19th
-#### Clean *your* stars
-##### Start cleaning!
+#### Happy Holiday 
+##### Set up [reminders doc](https://docs.google.com/document/d/1T33oEk57HR7IdEYqC-OQjoi6RxEwKRKnnmIcyEWotqM/edit?usp=sharing)
+##### Continue cleaning!
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
