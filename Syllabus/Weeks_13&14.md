@@ -10,7 +10,8 @@
 
 
 ## January 23rd
-#### Practice talk
+#### Practice talk 
+##### Visit by Dr. Ruth Angus (15 minutes)
 ##### Create any desired plots
 ##### Continue cleaning and stitching 4 stars!
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
