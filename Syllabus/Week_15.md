@@ -13,4 +13,5 @@
 ## February 6th
 #### Working Session
 ##### Clean your individual stars
+##### Individual Check-ins
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
