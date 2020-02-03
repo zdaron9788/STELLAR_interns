@@ -5,7 +5,7 @@
 #### What is "success" in our internship?
 ##### Presentation debrief discussion
 ##### Decide next cheers & challenges representative
-##### Would you like to meet a [Nobel Laureate]?(https://www.nobelprize.org/prizes/physics/2019/peebles/facts/) (and make up absences)
+##### Would you like to meet a [Nobel Laureate](https://www.nobelprize.org/prizes/physics/2019/peebles/facts/)? (and make up absences)
 ##### Discuss our Cleaning/Stitching Template
 ##### Clean your individual stars
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
