@@ -13,10 +13,13 @@
 5. Return the rotation period
 
 
-##### Test your function in increments
-##### What would happen if you gave your function a star id that wasn't cleaned yet?
+###### Test your function in increments
+###### What would happen if you gave your function a star id that wasn't cleaned yet?
 
 
+.
+.
+.
 
 
 
@@ -24,7 +27,12 @@
 
 <hr>
 
-# try, except, else
+# Handling Raised Errors
+
+
+
+
+### try, except, else
 
 -  `try` lets you try some code but instead of throwing an error will execute the `except` statment if an error occurs - so your code won't stop running at the first error
 -  It is good practice to only use `except` with the exact error types you are expecting. You should also print something acknowledging why the function didn't perform as expected.
@@ -32,14 +40,7 @@
 
 
 
-
-
-
-
-
-<hr>
-
-## pass, continue
+### pass, continue
 
 ##### `pass` = there's no code to execute here
 ##### `continue` = there's no code to execute here, start next iteration 
