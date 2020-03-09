@@ -3,7 +3,7 @@
 
 ## March 3rd
 #### LAST Working Session
-##### Decide next cheers & challenges representative
+##### Decide next cheers & challenges representative (Finally Mariela - c&c skipped past 2 weeks)
 ##### Clean your individual stars
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
