@@ -5,6 +5,7 @@
 #### Machine Learning introduction
 ##### Decide next cheers & challenges representative
 ##### What is Machine Learning? [slides](https://docs.google.com/presentation/d/1f1k_r6hQFwvzmIen89Hi7K0GX97LnReaDxwzlmsMmOs/edit?usp=sharing)
+##### Fix our environment for timeseries
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
 
