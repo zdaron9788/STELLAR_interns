@@ -14,7 +14,7 @@
 ##### Discuss our new online platform and class structure
 ##### Build a classification tree with Iris dataset
 ##### This image will be useful: 
-
+<br />
   <div><div align="center" width=80px>
       <img src="https://www.integratedots.com/wp-content/uploads/2019/06/iris_petal-sepal-e1560211020463.png" width="550">
       <p width="auto">NGC 265</p>
