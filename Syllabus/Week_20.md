@@ -19,6 +19,7 @@
       <img src="https://www.integratedots.com/wp-content/uploads/2019/06/iris_petal-sepal-e1560211020463.png" width="550">
       <p width="auto">NGC 265</p>
     </div></div>
+<br />
 ##### Understand how and what we've built
 ##### Git in the Habit of Github (ie we will add, commit, push our Decision Tree notebook)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
