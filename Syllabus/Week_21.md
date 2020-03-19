@@ -18,9 +18,9 @@
 
 
 ## March 19th
-#### Let's (hopefully) Measure some Rotation Periods!
+#### Let's start to build a decision tree with astronomical data this time!
 ##### Cheers & Challenges
-##### Create a custom environment
-##### Use our function to measure our cleaned stars
-##### Validate our measurements / Analyze our measurements and compare stellar parameters
+##### Finish predictions & accuracy investigations from prior model
+##### Get Kepler data files & Prep the data
+##### Build, Train & Test our Tree (possibly next week)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
