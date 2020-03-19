@@ -21,6 +21,6 @@
 #### Let's start to build a decision tree with astronomical data this time!
 ##### Cheers & Challenges
 ##### Finish predictions & accuracy investigations from prior model
-##### Get Kepler data files & Prep the data
+##### Get Kepler data [files](https://arxiv.org/abs/1402.5694) & Prep the data
 ##### Build, Train & Test our Tree (possibly next week)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
