@@ -19,7 +19,6 @@
 ##### Cheers & Challenges (time permitting)
 ##### Finish data prep & visualize final sample
 ##### Build, Train & Test our Tree [Instructions](https://docs.google.com/presentation/d/1TYGpHHwC2mGcytiZG9eHhGLJxUXLKSbDlpVfZ9EZb84/edit?usp=sharing)
-##### Short [Movie](https://www.youtube.com/watch?v=sASbVkK-p0w) on Star spot motions 
 ##### Test removing features & see effects (time permitting)
 ##### Git in the Habit!
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
