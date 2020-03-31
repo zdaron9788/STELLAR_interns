@@ -8,7 +8,7 @@
 ##### Use our function to measure our cleaned stars
 ##### Short [Movie](https://www.youtube.com/watch?v=sASbVkK-p0w) on Star spot motions 
 ##### Validate our measurements / Analyze our measurements and compare stellar parameters
-##### Get some stellar ages?
+##### Get some [stellar ages](https://github.com/RuthAngus/stardate)?
 ##### Git in the Habit!
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
