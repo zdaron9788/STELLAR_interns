@@ -5,7 +5,6 @@
 ## April 7th
 #### Extra working session
 ##### Meet with all Internship Groups
-##### Finish planet life analysis
 ##### Test our Decision Tree after removing features
 ##### Begin transition to Random Forest Classifiers & Feature Importance Methods
 ##### Git in the Habit!

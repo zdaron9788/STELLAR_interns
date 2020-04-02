@@ -20,7 +20,6 @@
 ##### Cheers & Challenges 
 ##### Program Structure Discussion
 ##### Finish anything we need to from Measuring our Rotation Periods---get our stellar ages
-##### Do any of our stars host planets? - could they be old enough for life?
 ##### Test our Decision Tree after removing features (possibly next week)
 ##### Begin transition to Random Forest Classifiers & Feature Importance Methods (possible next week)
 ##### Git in the Habit!
