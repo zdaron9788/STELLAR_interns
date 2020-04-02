@@ -5,6 +5,7 @@
 ## April 7th
 #### Extra working session
 ##### Meet with all Internship Groups
+##### Finish planet life analysis
 ##### Test our Decision Tree after removing features
 ##### Begin transition to Random Forest Classifiers & Feature Importance Methods
 ##### Git in the Habit!
@@ -17,7 +18,7 @@
 #### Happy Easter!
 
 <div><div align="left" width=80px>
-    <img src="https://tenor.com/V7lG.gif" width="350"">
+    <img src="https://allsorts.typepad.com/photos/uncategorized/chick.jpg" width="350"">
 </div></div>
 
 
