@@ -5,7 +5,8 @@
 ## April 7th
 #### Extra working session
 ##### Meet with all Internship Groups
-##### Convert rotation period to stellar ages
+##### Convert rotation periods to stellar ages
+##### Reflect on our project and marvel at the results!
 ##### Begin transition to Random Forest Classifiers & Feature Importance Methods
 ##### Git in the Habit!
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
