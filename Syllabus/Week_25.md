@@ -20,7 +20,7 @@
 </div></div>
 
 ## April 23rd
-#### Review Session
+#### Office Hours Session
 ##### Discuss content for website
 ##### Decide key figures / project steps
 ##### Ask any questions
