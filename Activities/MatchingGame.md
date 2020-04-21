@@ -1,7 +1,7 @@
 # Matching Game!
 #### Please MATCH each code snippet's LETTER to its corresponding comment's NUMBER.
-##### You can test this code in a notebook if you move the data from the MatchingGame_Data
-folder that is inside the Activities_DATA folder, to the folder where you create a new notebook.
+You can test this code in a notebook if you move the data from inside the Activities_DATA folder,
+ to the folder where you create a new notebook.
 
 
 ## Code
