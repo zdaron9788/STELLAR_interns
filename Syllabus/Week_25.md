@@ -16,7 +16,7 @@
 #### Celebrate Earth Day!
 
 <div><div align="left" width=80px>
-    <img src="https://160g7a3snajg2i1r662yjd5r-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Earth-Day-white-rectangle-logo.png" width="350"">
+    <img src="https://160g7a3snajg2i1r662yjd5r-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Earth-Day-blue-2499-sq-1.png" width="350"">
 </div></div>
 
 
