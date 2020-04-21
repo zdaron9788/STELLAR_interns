@@ -5,7 +5,7 @@
 ## April 21st
 ### WELCOME BACK
 #### Transition to Random Forest & Review
-##### Meet with all Internship Groups
+##### Choose a Cheers & Challenges Representative
 ##### Admin discussions - structure & feedback
 ##### Begin transition to Random Forest Classifiers & Feature Importance Methods [slides](https://docs.google.com/presentation/d/1L3mSm64Xe_3RIaDRKcD-HqcIRJwZwK_m0ebqaLBHcYA/edit?usp=sharing)
 ##### Play matching game! (activities folder)
