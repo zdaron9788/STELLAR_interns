@@ -13,12 +13,11 @@
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
 ## April 22nd
-#### Celebrate Earth Day!
+#### [Celebrate Earth Day](https://www.amnh.org/calendar/earthfest-2020)!
 
 <div><div align="left" width=80px>
     <img src="https://160g7a3snajg2i1r662yjd5r-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Earth-Day-blue-2499-sq-1.png" width="350"">
 </div></div>
-[Celebrate with AMNH!](https://www.amnh.org/calendar/earthfest-2020)
 
 ## April 23rd
 #### Review Session
