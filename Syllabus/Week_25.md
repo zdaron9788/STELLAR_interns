@@ -21,7 +21,7 @@
 
 ## April 23rd
 #### Cheers & Challenges 4:30pm-5pm (link in 'brownscholars_interns' Slack channel)
-#### Office Hours Session 5pm-6pm
+#### Office Hours Session 5pm-6pm (link pinned in our 'int_spinning_stars' Slack channel)
 ##### Discuss content for website
 ##### Decide key figures / project steps
 ##### Ask any questions
