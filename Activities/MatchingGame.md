@@ -1,5 +1,7 @@
 # Matching Game!
 #### Please MATCH each code snippet's LETTER to its corresponding comment's NUMBER.
+##### You can test this code in a notebook if you move the data from the MatchingGame_Data
+folder that is inside the Activities_DATA folder, to the folder where you create a new notebook.
 
 
 ## Code
@@ -8,9 +10,9 @@ A:
 `rf_model.fit(X_train, y_train)` 
 
 B:
-`print('Test Set Accuracy:',rf_model.score(test_X,test_y))  
-print('Training Set Accuracy:', rf_model.score(X_train,y_train))
-print('Out of the Box Accuracy:',rf_model.oob_score_)`
+`print('Test Set Accuracy:',rf_model.score(test_X,test_y))`  
+`print('Training Set Accuracy:', rf_model.score(X_train,y_train))`
+`print('Out of the Box Accuracy:',rf_model.oob_score_)`
 
 C:
 `tables = pd.read_csv('mydata.csv')`
@@ -29,12 +31,12 @@ G:
 `X_train, test_X, y_train, test_y = train_test_split(X, y, random_state = 11)`
 
 H:
-`%matplotlib inline
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier`
+`%matplotlib inline`
+`import numpy as np`
+`import matplotlib.pyplot as plt`
+`import pandas as pd`
+`from sklearn.model_selection import train_test_split`
+`from sklearn.ensemble import RandomForestClassifier`
                        
 I:
 `rf_model = RandomForestClassifier(n_estimators = 100,
