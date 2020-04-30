@@ -15,7 +15,7 @@
 ## April 30th
 #### Cheers & Challenges 4:30pm-5pm (link in 'brownscholars_interns' Slack channel)
 #### Office Hours Session 5pm-6pm (link pinned in our 'int_spinning_stars' Slack channel)
-##### Decide key figures / project steps
+##### Prepare for guest speakers 
 ##### Kahoot Game
 ##### Make up work as needed
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
