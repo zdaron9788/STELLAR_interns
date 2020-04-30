@@ -7,7 +7,7 @@
 ##### Choose a Cheers & Challenges Representative
 ##### Build/Train/Test RFclassifer using Kepler data
 ##### Test importances and validate 
-##### Prepare for Guest speakers
+##### Review questions for Guest speakers
 ##### Git in the Habit!
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
